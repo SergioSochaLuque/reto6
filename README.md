@@ -11,6 +11,11 @@
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/96c10581-aa61-4be2-a98f-dec222e46885)
 ## 3.Diseñe una función que calcule la cantidad de carne de aves en kilos si se tienen N gallinas, M gallos y K pollitos cada uno pesando 6 kilos, 7 kilos y 1 kilo respectivamente.
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/50d3286e-088b-4006-8e73-55ba30f9bd5a)
+## 4.Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
+![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/33dcce8d-e7f2-4f5d-bcd5-bfebc3016473)
+
+
+
 
 
 
