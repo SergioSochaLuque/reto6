@@ -15,6 +15,8 @@
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/6441dcb4-20d4-4687-9986-3b86aa5684c8)
 ## 5.Haga un programa que utilice una función para calcular el valor de un préstamo C usando interés compuesto del i por n meses.
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/9d31f00d-e11c-4da1-9a62-42d95920d286)
+la cague y puse "m" en vez de "n" :c
+## 6.
 
 
 
