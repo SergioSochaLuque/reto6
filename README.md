@@ -8,5 +8,7 @@
    + Una función matemática para calcular el área y el perimetro.
    + Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b.
    + Revise como utilizar el valor de pi usando import math y math.pi
-![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/4b3a755d-cdd5-4834-b1bf-c99b8f737e63)
+![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/96c10581-aa61-4be2-a98f-dec222e46885)
+
+
 
