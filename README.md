@@ -20,13 +20,13 @@ la cague y puse "m" en vez de "n" :c
 ## 6.El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada día. Hacer un programa que diga el número total de personas que se han contagiado cuando pasen D días a partir de hoy, si el número de contagiados actuales es C.
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/7cd865f6-2cb8-4474-84da-b03083812055)
 ## 7.Escriba un programa que pida 5 números reales y calcule las siguientes operaciones usando una función para cada una:
-   +El promedio
-   +La mediana
-   +El promedio multiplicativo (multilplica todos y luego calcula la raíz de la cantidad de operandos)
-   +Ordenar los números de forma ascendente
-   +Ordenar los números de forma descendente
-   +La potencia del mayor número elevado al menor número
-   +La raíz cúbica del menor número
+   + El promedio
+   + La mediana
+   + El promedio multiplicativo (multilplica todos y luego calcula la raíz de la cantidad de operandos)
+   + Ordenar los números de forma ascendente
+   + Ordenar los números de forma descendente
+   + La potencia del mayor número elevado al menor número
+   + La raíz cúbica del menor número
 
 
 
