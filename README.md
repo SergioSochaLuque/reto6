@@ -13,6 +13,9 @@
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/50d3286e-088b-4006-8e73-55ba30f9bd5a)
 ## 4.Mi mamá me manda a comprar P panes a 300 cada uno, M bolsas de leche a 3300 cada una y H huevos a 350 cada uno. Hacer un programa que me diga las vueltas (o lo que quedo debiendo) cuando me da un billete de B pesos.
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/6441dcb4-20d4-4687-9986-3b86aa5684c8)
+## 5.Haga un programa que utilice una función para calcular el valor de un préstamo C usando interés compuesto del i por n meses.
+![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/9d31f00d-e11c-4da1-9a62-42d95920d286)
+
 
 
 
