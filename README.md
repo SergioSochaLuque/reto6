@@ -27,6 +27,8 @@ la cague y puse "m" en vez de "n" :c
    + Ordenar los números de forma descendente
    + La potencia del mayor número elevado al menor número
    + La raíz cúbica del menor número
+![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/11d11c81-3220-42fb-8b31-fae8e8fb1255)
+
 
 
 
