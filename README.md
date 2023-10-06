@@ -17,7 +17,10 @@
 ![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/9d31f00d-e11c-4da1-9a62-42d95920d286)
 
 la cague y puse "m" en vez de "n" :c
-## 6.
+## 6.El número de contagiados de Covid-19 en el país de NuncaLandia se duplica cada día. Hacer un programa que diga el número total de personas que se han contagiado cuando pasen D días a partir de hoy, si el número de contagiados actuales es C.
+![image](https://github.com/SergioSochaLuque/reto6/assets/141857054/7cd865f6-2cb8-4474-84da-b03083812055)
+## 7.
+
 
 
 
